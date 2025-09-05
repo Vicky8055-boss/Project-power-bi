@@ -32,10 +32,5 @@ It helps in understanding key business metrics like revenue, profit, orders, and
 - Top Products: **[Printer A, saree B, Bookcase C]**
   
 ---
-
-## 📂 Files in this Repository
-- `Dashboard.pbix` → Power BI report file
-- `MadhavEcomm_Sales.pdf` → Exported PDF version of dashboard
-- `Data/` → Dataset used in analysis
 - `Images/` → Dashboard screenshots
 
