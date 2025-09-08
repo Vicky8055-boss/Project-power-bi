@@ -21,7 +21,7 @@ It helps in understanding key business metrics like revenue, profit, orders, and
 ---
 
 ## 📈 Dashboard Preview
-[Dashboard Preview](PK)
+[Dashboard Preview](https://github.com/Vicky8055-boss/Project-power-bi/blob/main/Madhav%20ecommerce%20sales_page-0001.jpg?raw=true)
 
 
 ---
