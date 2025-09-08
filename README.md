@@ -31,5 +31,5 @@ It helps in understanding key business metrics like revenue, profit, orders, and
 - Highest Sales in **[Maharashtra/November]**  
 - Top Products: **[Printer A, saree B, Bookcase C]**
   
-- `Images/` → Dashboard screenshots
+
 
