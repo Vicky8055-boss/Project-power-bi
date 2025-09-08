@@ -21,7 +21,8 @@ It helps in understanding key business metrics like revenue, profit, orders, and
 ---
 
 ## 📈 Dashboard Preview
-[Dashboard Preview](Madhav ecommerce sales.pbix)
+[Dashboard Preview](PK)
+
 
 ---
 
